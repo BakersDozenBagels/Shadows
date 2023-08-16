@@ -23,7 +23,10 @@ MonoBehaviour:
 
     * Squad''s Shadow
 
-    * Memory''s Shadow'
+    * Memory''s Shadow
+
+
+    Source: https://github.com/BakersDozenBagels/Shadows'
   version: 3.2
   outputFolder: build
   previewImage: {fileID: 2800000, guid: a69b178b4db2d1c42b60e08c7c347063, type: 3}
